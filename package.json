@@ -1,0 +1,22 @@
+{
+  "name": "starter-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Crazyazza/starter-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Crazyazza/starter-project/issues"
+  },
+  "homepage": "https://github.com/Crazyazza/starter-project#readme",
+  "dependencies": {
+    "dogs": "^0.2.0"
+  }
+}

@@ -1,3 +1,5 @@
-console.log('hello world')
+const dogs = require('dogs')
 
-console.log('bark bark!')
+for(let i = 0; i< 3; i++){
+    console.log(dogs.dog())
+}
